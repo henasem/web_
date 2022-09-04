@@ -1,5 +1,5 @@
 <?php
 
-defined("LOW") or die("<p>salah</p>");
+defined("LOW") or die("hehe");
 
 echo '<script>alert("oke");</script>';
