@@ -1,4 +1,6 @@
 <?php
 
-define("LOW", TRUE);
-require_once 'app/Loader.php';
+define('THIS_SCRIPT', 'gamecp');
+define('IN_GAMECP_SALT58585', true);
+
+include './gamecp_common.php';
